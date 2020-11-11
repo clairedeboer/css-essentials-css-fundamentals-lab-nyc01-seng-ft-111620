@@ -40,4 +40,7 @@ p#featured-property {
 
 div#details {
   float: left;
+  background: grey;
+  text-align: center;
+  width: ;
 }
