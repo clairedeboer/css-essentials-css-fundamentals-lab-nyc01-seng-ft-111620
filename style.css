@@ -23,3 +23,8 @@ nav a {
   padding-right: 10px;
   background: grey;
 }
+
+figcaption {
+  font-size: ;
+  text-align: center;
+}
