@@ -36,11 +36,11 @@ p#featured-property {
 
 #details {
   display: block;
+  float: left;
 }
 
 div#details {
-  float: left;
-  background: grey;
+  background: red;
   text-align: center;
   width: ;
 }
